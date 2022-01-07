@@ -1,0 +1,13 @@
+.yadi{
+    
+    background-image: url(https://st3.depositphotos.com/1000246/34228/v/1600/depositphotos_342284526-stock-illustration-abstract-grunge-painted-flag-of.jpg);
+    background-size: cover;
+    background-size: 80rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  }
+
+  .bg-navbar-orange{
+    background-color: #ff0000;
+  }
